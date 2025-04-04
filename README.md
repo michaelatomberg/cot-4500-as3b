@@ -1,1 +1,3 @@
 # cot-4500-as3b
+# This repository contains a requirements.txt file, which lists the requirements to run the main program. The only library needed is numpy. The code contained in cot-4500-as3/src/main/assignment_3.py contains the solutions to the four questions from Programming Assingment 3b. Question 1 solves a given matrix using Gaussian elimination and backward substitution, Question 2 uses LU Factorization, Question 3 determines if a given matrix is diagonally dominate, and Question 4 determines if a given matrix is a positive definite.
+# Use the git and clone commands in your Python terminal, followed by the url to my GitHub submission, to run my code.
